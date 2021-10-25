@@ -1,0 +1,20 @@
+mqtt bridge url:
+- http://www.steves-internet-guide.com/mosquitto-bridge-configuration/
+- https://owntracks.org/booklet/guide/bridge/
+- https://mosquitto.org/man/mosquitto-conf-5.html
+- https://medium.com/jungletronics/mosquitto-bridge-5b44e9687fb3
+
+wrap image:
+https://stackoverflow.com/questions/38745020/wrap-image-around-a-circle/38819423
+
+mosquitto -c /etc/mosquitto/conf.d/default.conf
+mosquitto -c /etc/mosquitto/conf.d/mosquitto.conf
+
+drive:
+https://drive.google.com/drive/folders/15iNyDfV2TV2KAmGRdGO3qySEPgI6rsrr
+
+sudo netstat -lpn |grep :8080
+kill 6782
+
+https://ichiro-its.atlassian.net/wiki/spaces/PROG/pages/15794177/Determining+the+Story+Point+Estimation
+https://ichiro-its.atlassian.net/jira/software/projects/PI/boards/2/backlog
